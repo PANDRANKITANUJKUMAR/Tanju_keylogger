@@ -1,0 +1,10 @@
+'i'
+Key.space
+'a'
+'m'
+Key.space
+'t'
+'a'
+'n'
+'u'
+'j'
